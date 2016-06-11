@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="radix">
+		<item>2진법</item>
+		<item>8진법</item>
+		<item>10진법</item>
+		<item>16진법</item>
+		<item>36진법</item>
+		<item>ASCII</item>
+	</string-array>
+</resources>
